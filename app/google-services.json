@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177183416512",
+    "project_id": "extraa-ec512",
+    "storage_bucket": "extraa-ec512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177183416512:android:78a39e3a87c3ef2406cd25",
+        "android_client_info": {
+          "package_name": "kz.sdk.extraa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRz5QTY_5qwrn6MjaafIjj7_923aD1Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
