@@ -7,7 +7,7 @@
         android:title="Главная"
         />
     <item
-        android:id="@+id/catalog"
+        android:id="@+id/workoutsFragment"
         android:enabled="true"
         android:icon="@drawable/catalog_icon"
         android:title="Каталог"/>

@@ -76,4 +76,8 @@
         android:id="@+id/adminFragment"
         android:name="kz.sdk.extraa.fragments.AdminFragment"
         android:label="AdminFragment" />
+    <fragment
+        android:id="@+id/workoutsFragment"
+        android:name="kz.sdk.extraa.fragments.WorkoutsFragment"
+        android:label="WorkoutsFragment" />
 </navigation>
